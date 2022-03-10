@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @RafaMendes11
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Fullstack Java
-- 💞️ I’m looking to collaborate on ... Projects 
-- 📫 How to reach me ... https://www.instagram.com/rafamendees/
+## Olá eu sou o Rafa!
 
+- 📚 Estou estudando Full Stack Javascript
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<div style="display: inline_bloclk"><br>
+  <img align="center" alt="RafaJs" height="50" width="100" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>
+  <img align="center" alt="RafaHtml" height="50" width="100" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg>
+  <img align="center" alt="RafaCss" height="50" width="100" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg>
+</div)
+<hr/><hr/>
+  
+
