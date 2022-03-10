@@ -8,5 +8,6 @@
   <img align="center" alt="RafaCss" height="50" width="100" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg>
 </div)
 <hr/><hr/>
-  
+<div>
+  <a href="https://www.linkedin.com/in/rafaelbayma/" a/><img align="center" alt="Rafalinkdein" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
