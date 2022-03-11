@@ -1,4 +1,4 @@
-## Olá eu sou o Rafa!
+## Olá eu sou o Rafa! &#x1F9D1;&#x1F393;
 
 - 📚 Estou estudando Full Stack Javascript
 
