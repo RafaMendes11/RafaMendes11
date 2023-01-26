@@ -12,4 +12,4 @@ Eu sou o Rafael Mendes, sou um Programador Front End que está aprendendo atualm
 <div/>
     
     <br>
-    <a href="https://www.linkedin.com/in/rafaelbayma>
+    <a href="https://www.linkedin.com/in/rafaelbayma><a/>
