@@ -1,4 +1,6 @@
-### Olá eu sou o Rafa! ✌️
+### Hi there! ✌️
+
+Eu sou o Rafael Mendes, sou um Programador Front End que está aprendendo atualmente Javascript e React!
 
 ## Tecnologias que uso no meu dia.
 
