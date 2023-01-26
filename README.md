@@ -10,6 +10,9 @@ Eu sou o Rafael Mendes, sou um Programador Front End que está aprendendo atualm
     <img align=center alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align=center alt="javaScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <div/>
+    <div>
+          <br>
     
-    <br>
     <a href="https://www.linkedin.com/in/rafaelbayma><a/>
+
+    </div>
