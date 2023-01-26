@@ -11,4 +11,5 @@ Eu sou o Rafael Mendes, sou um Programador Front End que está aprendendo atualm
     <img align=center alt="javaScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <div/>
 ## Meu Linkedin!
+    <br>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
