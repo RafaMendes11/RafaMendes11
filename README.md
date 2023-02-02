@@ -1,6 +1,6 @@
 ### Hi there! ✌️
 
-Eu sou o Rafael Mendes, sou um Programador Front End que está aprendendo atualmente Javascript e React!
+Eu sou o Rafael Mendes, sou um Programador Front End que está estudando atualmente Javascript e React!
 
 - 💬 Pergunte-me qualquer coisa no meu Linkedin: [here](https://www.linkedin.com/in/rafaelbayma/).
 - 📫 Se quiser me procure no Instagram: [@rafamendees](https://www.instagram.com/rafamendees).
