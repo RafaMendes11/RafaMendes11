@@ -1,6 +1,6 @@
 ### Hi there! ✌️
 
-Eu sou o Rafael Mendes, sou um Programador Front End que está estudando atualmente Javascript e React!
+Eu sou o Rafael Mendes, sou um Programador Back End que está estudando atualmente C#. Mas tenho alguma familiaridade e conhecimento no front end Também!
 
 - 💬 Pergunte-me qualquer coisa no meu Linkedin: [here](https://www.linkedin.com/in/rafaelbayma/).
 - 📫 Se quiser me procure no Instagram: [@rafamendees](https://www.instagram.com/rafamendees).
@@ -11,4 +11,5 @@ Eu sou o Rafael Mendes, sou um Programador Front End que está estudando atualme
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <br />
