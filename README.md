@@ -1,6 +1,6 @@
 ### Hi there! ✌️
 
-Eu sou o Rafael Mendes, sou um Programador Back End que está estudando atualmente C#. Mas tenho alguma familiaridade e conhecimento no front end Também!
+Eu sou o Rafael Mendes, sou um Programador Back End que está estudando atualmente C# e .NET. Mas tenho alguma familiaridade e conhecimento no front end Também!
 
 - 💬 Pergunte-me qualquer coisa no meu Linkedin: [here](https://www.linkedin.com/in/rafaelbayma/).
 - 📫 Se quiser me procure no Instagram: [@rafamendees](https://www.instagram.com/rafamendees).
